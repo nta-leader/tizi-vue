@@ -1,0 +1,5 @@
+@media(max-width:767px){
+    .sidebar-mini .content-wrapper, .fixed .right-side {
+        padding-top: 95px;
+    }
+}
