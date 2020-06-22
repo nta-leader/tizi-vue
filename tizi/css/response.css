@@ -2,4 +2,7 @@
     .sidebar-mini .content-wrapper, .fixed .right-side {
         padding-top: 95px;
     }
+    .modal.fade.in.show .modal-dialog{
+        margin: 0px;
+    }
 }

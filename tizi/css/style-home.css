@@ -27,8 +27,7 @@
 }
 .main-content .content{
     background-image: url(../img/bg-danh-muc.png);
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-size: contain;
 }
 .main-content .content.categorys{
     padding-bottom: 0px;
